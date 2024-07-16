@@ -27,10 +27,71 @@
                 {
                 "id": 7,
                 "name": "Eslam Mohsen"
-                },
+                }
+                ,
                 {
                 "id": 8,
                 "name": "Mohamed Kamel"
+                }
+                ,
+                {
+                "id": 9,
+                "name": "Mohamed Kamel"
+                }
+                ,
+                {
+                "id": 10,
+                "name": "Mazen Kamel"
+                }
+                ,
+                {
+                "id": 11,
+                "name": "Rady Mohamed"
+                }
+                ,
+                {
+                "id": 12,
+                "name": "Mohamed Salam"
+                }
+                ,
+                {
+                "id": 13,
+                "name": "Saad Farid"
+                }
+                ,
+                {
+                "id": 14,
+                "name": "Aktham Yasser"
+                }
+                ,
+                {
+                "id": 15,
+                "name": "Mohamed Abdelfatah"
+                }
+                ,
+                {
+                "id": 16,
+                "name": "Yasser Saleh"
+                }
+                ,
+                {
+                "id": 17,
+                "name": "Yazeed Negm"
+                }
+                ,
+                {
+                "id": 18,
+                "name": "Abdelrahman Badr"
+                }
+                ,
+                {
+                "id": 19,
+                "name": "Badr Mohamed"
+                }
+                ,
+                {
+                "id": 20,
+                "name": "Mohamed AbdelGawad"
                 }
   ],
   "transactions": [
@@ -118,10 +179,53 @@
                   }
                   ,
                   {
+                  "id": 14,
+                  "customer_id": 11,
+                  "date": "2022-01-09",
+                  "amount": 1450
+                  }
+                  ,
+                  {
                   "id": 15,
-                  "customer_id": 6,
+                  "customer_id": 20,
+                  "date": "2022-10-18",
+                  "amount": 6550
+                  }
+                  ,
+                  {
+                  "id": 16,
+                  "customer_id": 20,
+                  "date": "2022-01-09",
+                  "amount": 1758
+                  }
+                  ,
+                  {
+                  "id": 17,
+                  "customer_id": 18,
+                  "date": "2022-01-20",
+                  "amount": 5890
+                  }
+                  ,
+                  {
+                  "id": 18,
+                  "customer_id": 16,
                   "date": "2022-01-10",
                   "amount": 6550
                   }
+                  ,
+                  {
+                  "id": 19,
+                  "customer_id": 14,
+                  "date": "2022-01-13",
+                  "amount": 1478
+                  }
+                  ,
+                  {
+                  "id": 20,
+                  "customer_id": 20,
+                  "date": "2022-09-03",
+                  "amount": 8569
+                  }
+
   ]
 }
